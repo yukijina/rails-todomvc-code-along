@@ -1,0 +1,5 @@
+/* When you add css pipeline, you need to add  *= require 'lists' in application.css */
+
+div.field_with_errors input[type="text"] {
+  border: 1px solid red;
+}
